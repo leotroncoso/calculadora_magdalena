@@ -6,4 +6,14 @@
     <string name="label_numero_dos">Digite número dos</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+    <string-array name="operaciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
 </resources>
