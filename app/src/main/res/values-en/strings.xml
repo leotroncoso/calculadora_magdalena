@@ -3,12 +3,15 @@
     <string name="app_name">Calculator</string>
     <string name="saludo">Hello World</string>
     <string name="titulo">Calculator</string>
-    <string name="label_numero_uno">type number one</string>
-    <string name="label_numero_dos">type number two</string>
+    <string name="label_numero_uno">Enter a value</string>
+    <string name="label_numero_dos">Enter a value</string>
     <string name="calcular">calculate</string>
     <string name="limpiar">clean</string>
     <string name="suma">sum</string>
     <string name="resta">subtraction</string>
     <string name="multiplicacion">multiplication</string>
     <string name="division">division</string>
+    <string name="error_1">Enter a value</string>
+    <string name="error_2">Enter a value</string>
+    <string name="error_3">The denominator can not be off</string>
 </resources>

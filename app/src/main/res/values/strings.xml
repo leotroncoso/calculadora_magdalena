@@ -2,8 +2,8 @@
     <string name="app_name">Calculadora</string>
     <string name="saludo">Hola Mundo</string>
     <string name="titulo">Calculadora</string>
-    <string name="label_numero_uno">Digite número uno</string>
-    <string name="label_numero_dos">Digite número dos</string>
+    <string name="label_numero_uno">Ingrese Valor</string>
+    <string name="label_numero_dos">Ingrese Valor</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
     <string name="suma">Suma</string>
@@ -16,4 +16,7 @@
         <item>@string/multiplicacion</item>
         <item>@string/division</item>
     </string-array>
+    <string name="error_1">Ingrese valor</string>
+    <string name="error_2">Ingrese valor</string>
+    <string name="error_3">El denominador no puede ser cero</string>
 </resources>
